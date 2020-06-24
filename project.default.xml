@@ -1,0 +1,57 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Trade Repository Adapter/03 Development/trunk/client" value="PREVIEW" />
+            <entry key="$USER_HOME$/Trade Repository Adapter/03 Development/trunk/local-dev" value="PREVIEW" />
+            <entry key="$USER_HOME$/Trade Repository Adapter/03 Development/trunk/mw-trace" value="PREVIEW" />
+            <entry key="$USER_HOME$/Trade Repository Adapter/03 Development/trunk/rd-trace" value="PREVIEW" />
+            <entry key="$USER_HOME$/Trade Repository Adapter/03 Development/trunk/tools/auto-client-setup" value="PREVIEW" />
+            <entry key="$USER_HOME$/Trade Repository Adapter/03 Development/trunk/tools/trade-generator" value="PREVIEW" />
+            <entry key="$USER_HOME$/Trade Repository Adapter/03 Development/trunk/tools/xslt-generator" value="PREVIEW" />
+            <entry key="$USER_HOME$/Trade Repository Adapter/03 Development/trunk/trace-ui" value="PREVIEW" />
+            <entry key="$USER_HOME$/submitter/local-dev" value="PREVIEW" />
+            <entry key="$USER_HOME$/submitter/mw-trace" value="PREVIEW" />
+            <entry key="$USER_HOME$/submitter/trace-core" value="PREVIEW" />
+            <entry key="$USER_HOME$/submitter/xslt-generator" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="copyright.filetypes.Groovy" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
